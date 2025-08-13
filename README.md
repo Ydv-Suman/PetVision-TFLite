@@ -19,15 +19,17 @@ The project demonstrates **model training**, **evaluation**, and **quantization*
 ---
 
 ## 📂 Project Structure
+```
 PetVision/
 │
-├── pet_vision_model/ # SavedModel and TFLite files
-│ ├── pet_vision_model.tflite # Original FP32 TFLite model
-│ ├── dynamic_optimized_model.tflite # Dynamic range quantized model
-│ ├── integer_optimized_model.tflite # Integer quantized model
+├── pet_vision_model/
+│   ├── pet_vision_model.tflite
+│   ├── dynamic_optimized_model.tflite
+│   ├── integer_optimized_model.tflite
 │
-├── PetVision.ipynb # Main Jupyter/Colab notebook
-└── README.md # Repository README
+├── PetVision.ipynb
+└── README.md
+
 
 ---
 
