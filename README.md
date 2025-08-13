@@ -54,10 +54,12 @@ Quantized models are smaller and faster, with minimal accuracy loss
 🖼 Sample Output
 Predictions Plot
 
---
+---
 
 📦 Models Exported
 Model Type	File Name	Size Reduction
+```
 FP32 Original	pet_vision_model.tflite	—
 Dynamic Range Quantized	dynamic_optimized_model.tflite	✅ Reduced
 INT8 Quantized	integer_optimized_model.tflite	✅✅ More Reduced
+```
