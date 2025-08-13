@@ -27,7 +27,7 @@ PetVision/
 │ ├── integer_optimized_model.tflite # Integer quantized model
 │
 ├── PetVision.ipynb # Main Jupyter/Colab notebook
-└── README.md-
+└── README.md # Repository README
 
 ---
 
